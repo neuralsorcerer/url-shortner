@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Screenshots
 
-Include some screenshots of your project in action: ![HomePage](screenshot.png)
+![HomePage](screenshot.png)
